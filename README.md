@@ -27,7 +27,7 @@ Gymnasium includes the following families of environments along with a wide vari
 To install the base Gymnasium library, use
 `pip install 'git+https://github.com/mikesongming/Gymnasium.git#egg=gymnasium[all]' `
 
-We support and test for Python 3.9, 3.10, 3.11 on Linux and macOS. We will accept PRs related to Windows, but do not officially support it.
+We support and test for Python 3.9, 3.10 on Linux and macOS. We will accept PRs related to Windows, but do not officially support it.
 
 ## API
 

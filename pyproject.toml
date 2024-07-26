@@ -27,7 +27,7 @@ classifiers = [
 dependencies = [
     "numpy >=1.21.0, <2",
     "cloudpickle >=1.2.0",
-    "importlib-metadata >=4.8.0; python_version < '3.12'",
+    "importlib-metadata >=4.8.0; python_version < '3.11'",
     "typing-extensions >=4.3.0",
     "farama-notifications >=0.0.1",
 ]
